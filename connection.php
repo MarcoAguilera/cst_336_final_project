@@ -4,7 +4,7 @@ function getDBConnection() {
     
     //C9 db info
     $host = "us-cdbr-iron-east-04.cleardb.net";
-    $db = "NBA";
+    $db = "heroku_4f3c9c45baa0812";
     $username = "b7e1d569efa02e";
     $password = "9a23454e";
     $charset = 'utf8mb4';
