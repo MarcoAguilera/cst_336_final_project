@@ -3,10 +3,10 @@
 function getDBConnection() {
     
     //C9 db info
-    $host = "localhost";
+    $host = "us-cdbr-iron-east-04.cleardb.net";
     $db = "NBA";
-    $username = "root";
-    $password = "";
+    $username = "b7e1d569efa02e";
+    $password = "9a23454e";
     $charset = 'utf8mb4';
     
     $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
